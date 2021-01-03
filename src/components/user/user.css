@@ -1,0 +1,13 @@
+.user-table {
+    margin-bottom: 30px;
+}
+
+.user-login {
+    text-transform: uppercase;
+    margin: 0px 0px;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+}
